@@ -1,6 +1,6 @@
 # TestFlight-Auto-Invite-PHP
 
-A small Python script through which an email can be added into the TestFlight automatically. 
+A small PHP programme through which an email can be added into the TestFlight automatically. 
 
 # How To
 Just need to pass in your PHP file (testflight_invite.php).
